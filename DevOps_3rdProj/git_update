@@ -1,0 +1,7 @@
+Git add -(filename)
+Git add . (for all file)
+Git remote (shows remote )
+Git remote - v (shows the fetch and push git address )
+Push origin master ( for pushing up into the repository )
+git push -u origin master /main
+
